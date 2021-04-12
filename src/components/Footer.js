@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="mt-10 mb-10">
       <p className="text-center">Copyright © 2020 by Bao Nguyen</p>
-      <p className="text-center">Illustration was made by Pixel True</p>
+      <p className="text-center">Logo was made by Pixel True</p>
   </footer>
   );
 }

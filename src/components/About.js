@@ -3,8 +3,8 @@ import logo from '../images/logo.svg';
 
 const About = () => {
   return (
-    <div className="flex flex-col md:flex-row justify-evenly mr-8 ml-8 mb-0 md:mb-16">
-      <div className="flex flex-col space-y-12 w-3/4">
+    <div className="flex flex-col md:flex-row justify-evenly mr-8 ml-8 mb-4 md:mb-16">
+      <div className="flex flex-col space-y-12 w-auto md:w-3/4">
         <div className="text-3xl md:text-7xl">
           <p>
             Hello, I'm
@@ -13,7 +13,7 @@ const About = () => {
             <span id="intro-name">Bao Nguyen</span>
           </div>
         </div>
-        <p className="text-base md:text-2xl">
+        <p className="text-base md:text-2xl w-auto">
           I'm a Computer Science student from the University of Washington Tacoma
           and a web developer. I have a deep passion in developing software
           that helps solving real-world problems and empowers others.
