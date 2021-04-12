@@ -11,7 +11,9 @@ const NavBar = () => {
           <a href = '#contact'>Contact</a>
         </li>
         <li>
-          <a href = 'nttb04121999.github.io/images/Bao_Nguyen_Resume.pdf'>
+          <a
+            href = 'https://nttb04121999.github.io/images/Bao_Nguyen_Resume.pdf'
+          >
             Resume
           </a>
         </li>
